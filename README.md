@@ -1,5 +1,5 @@
 # BAE-305-lab2
-Laboratory 2: For Good Measure: Basic Circuits
+Laboratory 2- For Good Measure: Basic Circuits
 Aashika Uppala, Megan Fister
 2/4/2025
 The purpose of this lab was to analyze basic electrical circuits by measuring voltages and currents in both series and parallel configurations.
