@@ -8,8 +8,8 @@ and the superposition theorem to analyze electrical circuits. In this lab, we ai
 The lab was divided into two main tasks:
 First, we learned soldering techniques by building a simple series circuit on a solder protoboard. Second, we analyzed a circuit by measuring and comparing theoretical and experimental values to confirm the validity of fundamental circuit laws. Second, we analyzed a circuit by measuring and comparing theoretical and experimental values to confirm the validity of fundamental circuit laws.
 By conducting this lab, we not only reinforced our theoretical understanding of circuit laws but also developed hands-on skills in circuit construction, soldering, and precise electrical measurements. The experimental results were expected to align with theoretical predictions, demonstrating the accuracy and applicability of these fundamental electrical concepts in real-world engineering.
-
-
+Method/tests section
+Results section
 Verification of Kirchhoff’s Laws:
 The measured currents confirmed KCL, as the sum of currents entering and leaving each node was approximately equal.
 The measured voltages confirmed KVL, as the total voltage drop matched the supplied voltage.
