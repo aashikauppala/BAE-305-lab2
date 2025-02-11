@@ -10,9 +10,28 @@ This experiment aimed to verify Kirchhoff’s Voltage Law (KVL) and Kirchhoff’
 and the superposition theorem to analyze electrical circuits. In this lab, we aimed to apply these fundamental principles by constructing and analyzing both series and parallel circuits. The experiment was designed to verify KVL and KCL through direct measurement of circuit parameters. Furthermore, Thevenin’s theorem was explored by determining the equivalent circuit parameters experimentally and comparing them to theoretical calculations.
 
 ## Methods
+### Instruments
+• A Digital Multimeter
+
+• A DC Power supply
+
+• A Soldering station
+
+• A small piece of solder
+
+• Solder protoboard
+
+• Resistors: 1kΩ, 2.2 kΩ, 2.2 kΩ, 5.1 kΩ, 4.7 kΩ, 6.8 kΩ, 15 kΩ, 220 kΩ
+
+
 The lab was divided into two main tasks:
-First, we learned soldering techniques by building a simple series circuit on a solder protoboard. Second, we analyzed a circuit by measuring and comparing theoretical and experimental values to confirm the validity of fundamental circuit laws. Second, we analyzed a circuit by measuring and comparing theoretical and experimental values to confirm the validity of fundamental circuit laws.
-By conducting this lab, we not only reinforced our theoretical understanding of circuit laws but also developed hands-on skills in circuit construction, soldering, and precise electrical measurements. The experimental results were expected to align with theoretical predictions, demonstrating the accuracy and applicability of these fundamental electrical concepts in real-world engineering.
+
+First, we learned soldering techniques by building a simple series circuit on a solder protoboard. Second, we analyzed a circuit by measuring and comparing theoretical and experimental values to confirm the validity of fundamental circuit laws. By conducting this lab, we not only reinforced our theoretical understanding of circuit laws but also developed hands-on skills in circuit construction, soldering, and precise electrical measurements. The experimental results were expected to align with theoretical predictions, demonstrating the accuracy and applicability of these fundamental electrical concepts in real-world engineering.
+### Objective 1: Learn soldering techniques by building a simple circuit on a solder protoboard
+
+
+### Objective 2: Analyze a circuit to verify Kirchhoff’s voltage law (KVL) and Kirchhoff’s current law (KCL), and to apply Thevenin’s and superposition theorems to the analysis of electrical circuits
+
 
 ## Results
 Verification of Kirchhoff’s Laws:
