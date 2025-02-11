@@ -45,9 +45,15 @@ After the circuit is built, we used the tip to solder the components to a solder
 
 ![Soldering](https://github.com/aashikauppala/BAE-305-lab2/blob/main/Lab%202%20-%20Soldering.jpg)
 
-Once the components were soldered to the breadboard, we connected the circuit to the DC Power Supply and set it to 10 V. Using the DMM, we measured the voltage drop across each resistor. Then, we measured the voltage drop across the whole circuit.
+Once the components were soldered to the breadboard, we connected the circuit to the DC Power Supply and set it to 10 V. Using the DMM, we measured the voltage drop across each resistor.
 
 ![Measuring Voltage Drop Across Resistor](https://github.com/aashikauppala/BAE-305-lab2/blob/main/Lab%202%20-%20Measuring%20across%20resistor.jpg)
+
+Then, we measured the voltage drop across the whole circuit.
+
+![Measuring Voltage Drop Across Circuit](https://github.com/aashikauppala/BAE-305-lab2/blob/main/Lab%202%20-%20Measuring%20across%20circuit.jpg)
+
+After changing the DMM settings to measure the current, we interrupted the circuit by disconnecting the positive end from the voltage power and connecting the multimeter between a resistor and the voltage. 
 
 
 ### Objective 2: Analyze a circuit to verify Kirchhoff’s voltage law (KVL) and Kirchhoff’s current law (KCL), and to apply Thevenin’s and superposition theorems to the analysis of electrical circuits
@@ -65,6 +71,7 @@ Measurement errors due to DMM inaccuracies. Component tolerances affecting resis
 
 ### Part 1
 
+Measured Resistance
 |Resistor|Expected (Ω)| Measured (Ω) |
 |---|---|---|
 |$R_1$|  2200 | 2176 |
@@ -72,7 +79,7 @@ Measurement errors due to DMM inaccuracies. Component tolerances affecting resis
 |$R_3$|  1000  | 986 |
 |Total Resistance|  8300 | 8170 |
 
-
+Measured Voltage Drop
 |Voltage Drop|Measured (V)|
 |---|---|
 |$R_1$|  1.206  |
@@ -80,7 +87,8 @@ Measurement errors due to DMM inaccuracies. Component tolerances affecting resis
 |$R_3$|  6.129  |
 |Total|  10.002 |
 
-1.24 mA is the current. Interrupted the circuit by disconnecting the positive end from the voltage power and connecting the multimeter between a resistor and the voltage. 
+Measured Current
+1.24 mA is the current across the circuit.
 
 ## Discussion
 
