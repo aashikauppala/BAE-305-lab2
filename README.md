@@ -47,8 +47,8 @@ After the circuit is built, we used the tip to solder the components to a solder
 
 Once the components were soldered to the breadboard, we connected the circuit to the DC Power Supply and set it to 10 V. Using the DMM, we measured the voltage drop across each resistor. Then, we measured the voltage drop across the whole circuit.
 
-![Measuring Voltage Drop]
-(https://github.com/aashikauppala/BAE-305-lab2/blob/main/Lab%202%20-%20Circuit%20before%20soldering.jpg)
+![Measuring Voltage Drop Across Resistor](https://github.com/aashikauppala/BAE-305-lab2/blob/main/Lab%202%20-%20Measuring%20across%20resistor.jpg)
+
 
 ### Objective 2: Analyze a circuit to verify Kirchhoff’s voltage law (KVL) and Kirchhoff’s current law (KCL), and to apply Thevenin’s and superposition theorems to the analysis of electrical circuits
 
