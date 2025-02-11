@@ -2,7 +2,7 @@
 
 Aashika Uppala, Megan Fister
 
-2/4/2025
+2/10/2025
 
 ## Introduction
 The purpose of this lab was to analyze basic electrical circuits by measuring voltages and currents in both series and parallel configurations.
@@ -30,7 +30,7 @@ First, we learned soldering techniques by building a simple series circuit on a 
 
 _Objective 1: Learn soldering techniques by building a simple circuit on a solder protoboard_
 
-#### Part 1
+#### Part 1 - Series Circuit
 The first step is to measure the resistance of each resistor using the DMM.
 
 The next step is to build the circuit below:
@@ -55,6 +55,13 @@ Then, we measured the voltage drop across the whole circuit.
 
 After changing the DMM settings to measure the current, we interrupted the circuit by disconnecting the positive end from the voltage power and connecting the multimeter between a resistor and the voltage. 
 
+![Measuring Current](https://github.com/aashikauppala/BAE-305-lab2/blob/main/Lab%202%20-%20Measuring%20positive%20to%20top%20of%20circuit.jpg)
+
+#### Part 2 - Parallel Circuit
+The first step is to measure the resistance of each resistor using the DMM.
+
+The next step is to build the circuit below on a regular prototyping breadboard.
+![Circuit 2]
 
 ### Objective 2: Analyze a circuit to verify Kirchhoff’s voltage law (KVL) and Kirchhoff’s current law (KCL), and to apply Thevenin’s and superposition theorems to the analysis of electrical circuits
 
@@ -69,26 +76,28 @@ The measured Thevenin Voltage (VTH) and Thevenin Resistance (RTH) were close to 
 Sources of Error:
 Measurement errors due to DMM inaccuracies. Component tolerances affecting resistance values. Connection issues in soldered circuits.
 
-### Part 1
+### Part 1 - Series Circuit
 
-Measured Resistance
+_Measured Resistance_
 |Resistor|Expected (Ω)| Measured (Ω) |
 |---|---|---|
 |$R_1$|  2200 | 2176 |
 |$R_2$| 5100   | 5007 |
 |$R_3$|  1000  | 986 |
-|Total Resistance|  8300 | 8170 |
+|Whole Circuit|  8300 | 8170 |
 
-Measured Voltage Drop
-|Voltage Drop|Measured (V)|
+_Measured Voltage Drop_
+|Resistor|Measured (V)|
 |---|---|
 |$R_1$|  1.206  |
 |$R_2$|  2.667  |
 |$R_3$|  6.129  |
-|Total|  10.002 |
+|Whole Circuit|  10.002 |
 
-Measured Current
+_Measured Current_
 1.24 mA is the current across the circuit.
+
+### Part 2 - Parallel Circuit
 
 ## Discussion
 
