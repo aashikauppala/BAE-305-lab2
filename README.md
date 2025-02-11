@@ -11,7 +11,7 @@ and the superposition theorem to analyze electrical circuits. In this lab, we ai
 
 ## Methods
 ### Instruments
-• A Digital Multimeter
+• A Digital Multimeter (DMM)
 
 • A DC Power supply
 
@@ -27,12 +27,28 @@ and the superposition theorem to analyze electrical circuits. In this lab, we ai
 The lab was divided into two main tasks:
 
 First, we learned soldering techniques by building a simple series circuit on a solder protoboard. Second, we analyzed a circuit by measuring and comparing theoretical and experimental values to confirm the validity of fundamental circuit laws. By conducting this lab, we not only reinforced our theoretical understanding of circuit laws but also developed hands-on skills in circuit construction, soldering, and precise electrical measurements. The experimental results were expected to align with theoretical predictions, demonstrating the accuracy and applicability of these fundamental electrical concepts in real-world engineering.
-### Objective 1: Learn soldering techniques by building a simple circuit on a solder protoboard
 
-Build the circuit below:
+_Objective 1: Learn soldering techniques by building a simple circuit on a solder protoboard_
 
-![Circuit 1](https://github.com/aashikauppala/BAE-305-lab2/blob/main/Figure%1.jpg)
+#### Part 1
+The first step is to measure the resistance of each resistor using the DMM.
+
+The next step is to build the circuit below:
+
+![Circuit 1](https://github.com/aashikauppala/BAE-305-lab2/blob/main/Figure%201.png)
+
+While building the circuit, we turned on the soldering station to allow it to heat to 800 degrees Celsius.
+
 ![Soldering Setup](https://github.com/aashikauppala/BAE-305-lab2/blob/main/Lab%202%20-%20Circuit%20before%20soldering.jpg)
+
+After the circuit is built, we used the tip to solder the components to a solder breadboard.
+
+![Soldering](https://github.com/aashikauppala/BAE-305-lab2/blob/main/Lab%202%20-%20Soldering.jpg)
+
+Once the components were soldered to the breadboard, we connected the circuit to the DC Power Supply and set it to 10 V. Using the DMM, we measured the voltage drop across each resistor. Then, we measured the voltage drop across the whole circuit.
+
+![Measuring Voltage Drop]
+(https://github.com/aashikauppala/BAE-305-lab2/blob/main/Lab%202%20-%20Circuit%20before%20soldering.jpg)
 
 ### Objective 2: Analyze a circuit to verify Kirchhoff’s voltage law (KVL) and Kirchhoff’s current law (KCL), and to apply Thevenin’s and superposition theorems to the analysis of electrical circuits
 
@@ -46,6 +62,25 @@ The power supplied by the source was approximately equal to the total power diss
 The measured Thevenin Voltage (VTH) and Thevenin Resistance (RTH) were close to the calculated values. The measured short-circuit current (IN) confirmed the theoretical Norton equivalent.
 Sources of Error:
 Measurement errors due to DMM inaccuracies. Component tolerances affecting resistance values. Connection issues in soldered circuits.
+
+### Part 1
+
+|Resistor|Expected (Ω)| Measured (Ω) |
+|---|---|---|
+|$R_1$|  2200 | 2176 |
+|$R_2$| 5100   | 5007 |
+|$R_3$|  1000  | 986 |
+|Total Resistance|  8300 | 8170 |
+
+
+|Voltage Drop|Measured (V)|
+|---|---|
+|$R_1$|  1.206  |
+|$R_2$|  2.667  |
+|$R_3$|  6.129  |
+|Total|  10.002 |
+
+1.24 mA is the current. Interrupted the circuit by disconnecting the positive end from the voltage power and connecting the multimeter between a resistor and the voltage. 
 
 ## Discussion
 
